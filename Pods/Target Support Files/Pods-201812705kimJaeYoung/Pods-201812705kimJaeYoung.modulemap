@@ -1,0 +1,6 @@
+framework module Pods_201812705kimJaeYoung {
+  umbrella header "Pods-201812705kimJaeYoung-umbrella.h"
+
+  export *
+  module * { export * }
+}
